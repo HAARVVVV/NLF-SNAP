@@ -1,0 +1,17 @@
+__pycache__/
+NEW_SOUNDS/
+Fuentes_TFG/
+raw_dataset/
+processed_dataset/
+MEMORIA/
+prints_logs/
+TFG LAUNCH.txt
+LOG CAMBIOS.txt
+TFG.txt
+tfg_loss.py
+tfg_NoiseSynth_DISCARDED.py
+tfg_decoder.py
+tfg_train_mse.py
+tfg_traineval.py
+tfg_loss_NDDSP_mse.py
+tfg_grapher.py

@@ -1,0 +1,2 @@
+best_epoch,best_beta_epoch,latent_dim,n_test_samples,pc1_explained_variance_percent,pc2_explained_variance_percent,pc1_pc2_cumulative_percent
+95,0.6333333333333333,16,961,93.074,3.6099572,96.68395

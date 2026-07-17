@@ -1,0 +1,248 @@
+KICKS - 2679: -OK-
+
+	1. LINNDRUM: 15
+
+	2. TR606: 13
+
+	3. TR707: 17
+
+	4. TR808: 92
+
+	5. TR909: 235
+
+	6. NORD DRUM: 81
+
+	7. MODEL CYCLES: 54
+
+	8. KORG ELECTRIBE: 17
+
+	9. 90's MPC Sample Pack: 65
+
+	10. A-PLUS DRUMKIT: 76
+
+	11. Drumbrute: 36
+
+	12. Dubstep Empire Drum Kit: 503
+
+	13. BOOM BAP DRUM KIT VOL 1.: 30
+
+	14. Muffled Drums: 165
+
+	15. Peejay Vol. 1: 26	
+
+	16. Ultimate Boom Bap: 534
+
+	17. Wu tang Drum Kit: 720 
+
+SNARES - 2757: -OK-
+
+	1. LINNDRUM: 12
+
+	2. TR606: 12
+
+	3. TR707: 14
+
+	4. TR808: 184
+
+	5. TR909: 250
+
+	6. NORD DRUM: 58
+
+	7. KORG ELECTRIBE: 12
+
+	8. 90's MPC Sample Pack: 63
+
+	9. A-PLUS DRUMKIT: 54
+
+	10. Drumbrute: 51
+
+	11. Dubstep Empire Drum Kit: 415
+
+	12. BOOM BAP DRUM KIT VOL 1.: 30
+
+	13. Muffled Drums: 124
+
+	14. Peejay Vol. 1: 30
+
+	15. Ultimate Boom Bap: 810
+
+	16. Wu tang Drum Kit: 648 
+
+TOMS - 845: -OK-
+
+	1. LINNDRUM: 3
+
+	2. TR606: 21
+	
+	3. TR707: 13
+
+	4. TR808: 146
+
+	5. TR909: 306
+
+	6. NORD DRUM: 65
+
+	7. Dubstep Empire Drum Kit: 25
+
+	8. BOOM BAP DRUM KIT VOL 1.: 30
+
+	9. Muffled Drums: 133
+
+	16. Ultimate Percussion Samples: 104
+
+
+HIHATS - 1279: -OK- 
+
+	ABIERTOS - 569: -OK-
+
+		1. LINNDRUM: 3
+
+		2. TR606: 8
+
+		3. TR707: 10
+
+		4. TR808: 41
+
+		5. TR909: 60
+
+		6. NORD DRUM: 18
+
+		7. MODEL CYCLES: 6
+
+		8. DRUMBRUTE: 6
+
+		9. 90's MPC Sample Pack: 29
+
+		10. A-PLUS DRUMKIT: 24
+
+		11. Drumbrute: 31
+
+		12. Dubstep Empire Drum Kit: 150
+
+		13. BOOM BAP DRUM KIT VOL 1.: 30
+
+		14. Muffled Drums: 37
+
+		15. Peejay Vol. 1: 26
+
+		16.  Wu tang Drum Kit: 199
+
+	CERRADOS - 686: -OK-
+
+		1. LINNDRUM : 9
+
+		2. TR606: 13
+
+		3. TR707: 8
+
+		4. TR808: 49
+
+		5. TR909: 40
+
+		6. NORD DRUM: 18
+
+		7. MODEL CYCLES: 6
+
+		8. DRUMBRUTE: 5
+
+		9. 90's MPC Sample Pack: 21
+
+		10. A-PLUS DRUMKIT: 30
+
+		11. Drumbrute: 79
+
+		12. Dubstep Empire Drum Kit: 143
+
+		13. BOOM BAP DRUM KIT VOL 1.: 30
+
+		14. Muffled Drums: 135
+
+		15. Peejay Vol. 1: 35
+
+		16.  Wu tang Drum Kit: 75
+
+PERCS (CLAPS, CYMBALS, BELLS, BEAMS) - 1670: -OK-
+
+	1. 90's MPC Sample Pack: 13
+
+	2.  A-PLUS DRUMKIT: 35
+
+	3. Dubstep Empire Drum Kit: 44
+
+	4. Muffled drums: 29 
+
+	5. Peejay Vol. 1: 40
+
+	6. Ultimate Boom Bap: 529
+
+	7. Ultimate Percussion Samples: 114
+
+	8. Wu tang Drum Kit: 297
+
+	CLAPS - 346: -OK-
+
+		1. LINNDRUM: 3
+
+		2. TR707: 8
+
+		3. TR808: 62
+	
+		4. TR909: 34
+
+		5. NORD DRUM: 21
+
+		6. DRUMBRUTE: 17
+
+		7. A-PLUS DRUMKIT: 38
+
+		8. Dubstep Empire Drum Kit: 27
+
+		9. Peejay Vol. 1: 26
+
+		10. Ultimate Boom Bap: 85
+
+		11. Ultimate Percussion Samples: 48
+
+	CYMBALS - 242: -OK- 
+
+		1. LINNDRUM: 4
+
+		2. TR606: 7
+
+		3. TR707: 5
+
+		3. TR808: 126
+
+		4. TR909: 22
+
+		5. NORD DRUM: 24
+
+		6. DRUMBRUTE: 8
+
+		7. A-PLUS DRUMKIT: 8
+
+		8. Dubstep Empire Drum Kit: 41
+
+		9. BOOM BAP DRUM KIT VOL 1.: 30
+
+		10. Peejay Vol. 1: 8
+
+	BELLS - 35 -OK-
+
+		1. TR707: 5
+
+		2. TR808: 24
+
+		3. KORG ELECTRIBE: 6
+	
+
+	CONGAS - 206 -OK-
+
+		1. TR808: 147	
+
+		2. NORD DRUM: 31
+
+		3. MODEL CYCLES: 12
+
+		4. KORG ELECTRIBE: 16
+	
