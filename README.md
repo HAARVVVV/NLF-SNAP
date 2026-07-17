@@ -26,7 +26,7 @@ Un pequeño tema construido usando **únicamente** percusión generada por NLF-S
 
 🎵 **Audio:** [NLF-SNAP DEMO01.wav](https://github.com/user-attachments/files/30130786/NLF-SNAP.DEMO01.wav)
 
-🎥 **Video:**  https://github.com/HAARVVVV/NLF-SNAP/raw/main/DEMO/NLF-SNAP%20DEMO01%20STRUDEL.mp4
+🎥 **Video:** https://github.com/user-attachments/assets/920572b0-9415-43c8-9949-1390591cd4fe
 
 ---
 
