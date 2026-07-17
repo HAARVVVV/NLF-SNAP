@@ -341,6 +341,11 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     checkpoint_path = "./checkpoints/best_nddsp.pt"
     
+    if not os.path.exists(checkpoint_path):
+        print(f"ERROR: no se encuentra el modelo en {checkpoint_path}")
+        print("Descarga 'best_nddsp.pt' y colocalo en la carpeta ./checkpoints/")
+        return
+    
     checkpoint = torch.load(checkpoint_path, map_location = device)
     
     config = checkpoint["config"]
@@ -375,19 +380,9 @@ def main():
                                      
     print(f"Mejor checkpoint cargado: epoch {checkpoint['epoch']}")
 
-    dataset = PercussionDataset(data, augment = False)
-
-    reconstruct_perc(percussions = percussions, 
-                     model = model, 
-                     noise_synth = noise_synth,
-                     dataset = dataset, 
-                     device = device, 
-                     out = out, 
-                     audio_length = audio_length, 
-                     sample_rate = sample_rate,
-                     num_sounds = 12) # Variamos según la cantidad de sonidos que queramos generar. 
-    
-    
+    # --- GENERACION DE SONIDOS NUEVOS ---
+    # Solo necesita el modelo entrenado. Funciona sin el dataset.
+    print("\n-> Generando sonidos nuevos (sample)...")
     sample_perc(percussions = percussions, 
                 model = model, 
                 noise_synth = noise_synth, 
@@ -397,10 +392,31 @@ def main():
                 sample_rate = sample_rate,
                 num_percs = num_percs,
                 latent_dim = latent_dim,
-                num_sounds = 15) # Variamos según la cantidad de sonidos que queramos generar.
-    
-    # --- LLAMADA A LA NUEVA FUNCIÓN ---
-    generar_imagenes_memoria(model=model, dataset=dataset, device=device, out_dir=out)
+                num_sounds = 15) # Variamos segun la cantidad de sonidos que queramos generar.
+    print("-> Sonidos generados en ./CVAE_outputs/sample")
+
+    # --- RECONSTRUCCION E IMAGENES (requieren el dataset preprocesado) ---
+    # Estas dos partes solo se ejecutan si processed_dataset esta disponible.
+    if os.path.isdir(data):
+        print("\n-> Dataset encontrado. Generando reconstrucciones y espectrogramas...")
+        dataset = PercussionDataset(data, augment = False)
+
+        reconstruct_perc(percussions = percussions, 
+                         model = model, 
+                         noise_synth = noise_synth,
+                         dataset = dataset, 
+                         device = device, 
+                         out = out, 
+                         audio_length = audio_length, 
+                         sample_rate = sample_rate,
+                         num_sounds = 12)
+
+        generar_imagenes_memoria(model = model, dataset = dataset, device = device, out_dir = out)
+    else:
+        print(f"\n-> Dataset no encontrado en '{data}'.")
+        print("   Se omiten reconstrucciones y espectrogramas (solo requieren el dataset).")
+        print("   La generacion de sonidos nuevos (sample) ya se ha completado correctamente.")
+
     
 if __name__ == "__main__":
 
