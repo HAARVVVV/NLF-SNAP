@@ -15,18 +15,18 @@ Proyecto propio, ideado y desarrollado por mí. Nació como mi Trabajo de Fin de
 
 Sonidos generados por NLF-SNAP (uno de cada clase principal):
 
-- **Kick:** [`003_KICK_sampled.wav`](https://github.com/user-attachments/files/30130719/003_KICK_sampled.wav)
-- **Snare:** [`005_SNARE_sampled.wav`](https://github.com/user-attachments/files/30130737/005_SNARE_sampled.wav)
-- **Hi-Hat:** [`006_HIHAT_sampled.wav`](https://github.com/user-attachments/files/30130757/006_HIHAT_sampled.wav)
+- **Kick:** [`▶ Escuchar Kick generado (descarga)`](https://github.com/user-attachments/files/30130719/003_KICK_sampled.wav)
+- **Snare:** [`▶ Escuchar Snare generado (descarga)`](https://github.com/user-attachments/files/30130737/005_SNARE_sampled.wav)
+- **Hi-Hat:** [`▶ Escuchar Hi-Hat generado (descarga)`](https://github.com/user-attachments/files/30130757/006_HIHAT_sampled.wav)
 
 
 ### Demo musical
 
 Un pequeño tema construido usando **únicamente** percusión generada por NLF-SNAP, secuenciada en Strudel:
 
-🎵 **Audio:** [NLF-SNAP DEMO01.wav](https://github.com/user-attachments/files/30130786/NLF-SNAP.DEMO01.wav)
+🎵 **Audio:** [`▶ Escuchar Demo (descarga)`](https://github.com/user-attachments/files/30130786/NLF-SNAP.DEMO01.wav)
 
-🎥 **Video:** https://github.com/user-attachments/assets/920572b0-9415-43c8-9949-1390591cd4fe
+🎥 **Video:** [`▶ Ver Demo (Online, Recomendado)`](https://github.com/user-attachments/assets/920572b0-9415-43c8-9949-1390591cd4fe)
 
 ---
 
