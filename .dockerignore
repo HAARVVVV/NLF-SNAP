@@ -1,0 +1,23 @@
+.git/
+__pycache__/
+raw_dataset/
+processed_dataset/
+NEW_SOUNDS/
+Fuentes_TFG/
+MEMORIA/
+prints_logs/
+DEMO/
+CVAE_CSV/
+plots_and_graphs/
+CVAE_outputs/
+CVAE_outputs_DOCKER/
+tfg_decoder.py
+tfg_loss.py
+tfg_loss_NDDSP_mse.py
+tfg_train_mse.py
+tfg_traineval.py
+tfg_NoiseSynth_DISCARDED.py
+TFG LAUNCH.txt
+LOG CAMBIOS.txt
+TFG.txt
+environment.yml
