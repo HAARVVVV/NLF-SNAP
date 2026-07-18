@@ -168,3 +168,26 @@ Los sonidos generados aparecerán en `CVAE_outputs/sample/`, organizados por cla
 
 ---
 
+### Ejecutar con Docker
+
+Alternativa que no requiere instalar Python ni las dependencias: solo Docker.
+
+```bash
+docker build -t nlf-snap .
+```
+
+Ejecutar (Windows):
+
+```bash
+docker run -v "%cd%\salida:/app/CVAE_outputs" nlf-snap
+```
+
+Ejecutar (Linux / macOS):
+
+```bash
+docker run -v "$(pwd)/salida:/app/CVAE_outputs" nlf-snap
+```
+
+El contenedor genera los sonidos y los deja en la carpeta `salida/` de tu máquina. La imagen usa PyTorch en versión CPU, suficiente para inferencia.
+
+Se puede ejecutar cualquiera de los archivos contenidos en la imagen de Docker, con `docker run -it nlf-snap bash` + `ls` se pueden ver todos los archivos. Por ejemplo: docker run nlf-snap python tfg_pca.py
