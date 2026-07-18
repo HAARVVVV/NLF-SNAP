@@ -1,3 +1,4 @@
+
 # NLF-SNAP
 
 **Noise-driven Latent Feature Synthesis Network for Audio Percussion**
@@ -14,17 +15,18 @@ Proyecto propio, ideado y desarrollado por mí. Nació como mi Trabajo de Fin de
 
 Sonidos generados por NLF-SNAP (uno de cada clase principal):
 
-- **Kick:** [`013_KICK_sampled.wav`](CVAE_outputs/sample/KICK/013_KICK_sampled.wav)
-- **Snare:** [`001_SNARE_sampled.wav`](CVAE_outputs/sample/SNARE/001_SNARE_sampled.wav)
-- **Hi-Hat:** [`008_HIHAT_sampled.wav`](CVAE_outputs/sample/HIHAT/008_HIHAT_sampled.wav)
+- **Kick:** [`▶ Escuchar Kick generado (descarga)`](https://github.com/user-attachments/files/30130719/003_KICK_sampled.wav)
+- **Snare:** [`▶ Escuchar Snare generado (descarga)`](https://github.com/user-attachments/files/30130737/005_SNARE_sampled.wav)
+- **Hi-Hat:** [`▶ Escuchar Hi-Hat generado (descarga)`](https://github.com/user-attachments/files/30130757/006_HIHAT_sampled.wav)
+
 
 ### Demo musical
 
 Un pequeño tema construido usando **únicamente** percusión generada por NLF-SNAP, secuenciada en Strudel:
 
-🎵 **Audio:** [NLF-SNAP DEMO01.wav](DEMO/NLF-SNAP%20DEMO01.wav)
+🎵 **Audio:** [`▶ Escuchar Demo (descarga)`](https://github.com/user-attachments/files/30130786/NLF-SNAP.DEMO01.wav)
 
-https://github.com/HAARVVVV/NLF-SNAP/raw/main/DEMO/NLF-SNAP%20DEMO01%20STRUDEL.mp4
+🎥 **Video:** [`▶ Ver Demo (Online, Recomendado)`](https://github.com/user-attachments/assets/920572b0-9415-43c8-9949-1390591cd4fe)
 
 ---
 
